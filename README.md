@@ -1,3 +1,11 @@
+
+<h2 align="left">Technical Skills</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,jupyter,vscode,git,github,arduino,raspberrypi&perline=6" />
+</p>
+
+
 <div align="center">
 
 # ThreadLine
